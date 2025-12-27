@@ -7,7 +7,8 @@
     "dev": "nodemon ./bin/www",
     "build:vue": "webpack",
     "watch:vue": "webpack --watch --progress",
-    "stop": "pm2 stop web"
+    "stop": "pm2 stop web",
+    "build": "nuxt build"
   },
   "dependencies": {
     "@graphql-tools/load-files": "^6.3.2",
