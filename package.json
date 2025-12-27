@@ -49,7 +49,7 @@
     "vue-konva": "^2.1.7",
     "vue-observe-visibility": "^1.0.0",
     "vue-router": "^3.5.2",
-    "webpack": "^5.47.1"
+    "webpack": "^4.46.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
@@ -62,7 +62,7 @@
     "prettier": "^2.2.1",
     "vue-loader": "^15.9.6",
     "vue-template-compiler": "^2.6.14",
-    "webpack-cli": "^4.7.2"
+    "webpack-cli": "^3.3.12"
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.3",
